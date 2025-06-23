@@ -55,7 +55,6 @@ PACER (Produtividade, Autonomia, Colaboração e Entrega de Resultados)
 Pontos de Melhoria
 - Melhor planejamento de tempo, fazendo com que minhas tasks tenham menor probabilidade de ultrapassar o prazo determinado
 - Melhor comunicação, para que o grupo me entenda e que eu possa ajudar e ser ajudado com mair rapidez
-- 
 
 #### Lições Aprendidas
 Além do primeiro contato com Java e Spring, ainda tive a oportunidade de integrar essas tecnologias com o MongoDB. Além disso, tive a oportunidade de trazer o conhecimento e experiência do React para o Next, aumentando o espectro de tecnologias Front-end utilizadas. No espectro das Soft-Skills, eu tive um desempenho mais fraco se comparado aos trabalhos em grupo anteriores, isso me deu a oportunidade de experimentar um aprendizado mais intenso, principalmente no que tange à comunicação, alinhamento de expectatativas, maior capacidade de absorver críticas construtivas e tirar aprendizados valiosos das mesmas.
