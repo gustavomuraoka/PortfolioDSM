@@ -46,14 +46,22 @@ O sistema conta com a possibilidade de, ao logar, bater o ponto, registrando ent
 - Jira, utiliziado para o gerenciamento de equipe, exibindo tarefas a serem realizadas, endereçadas e cumpridas;
 - VSCode, IDE utilizada para desenvolver utilizando as linguagens utilizadas;
 
-#### Contribuições Pessoais
+#### Contribuições Técnicas Pessoais
 Responsável por planejar e implementar componentes do Front-end seguindo especificações encontradas no Figma a fim de atender os objetivos tanto de UX/UI quanto específicos do cliente, planejar e implentar o microsserviço de notificações, criando as rotas, os controllers, a conexão com o banco e outros. Também fui responsável por pontuais implementações, planejamentos e correções em todos os microsserviços criados pela equipe, a fim de entregar os objetivos combinados com o cliente.
+
+#### Soft-Skills
+PACER (Produtividade, Autonomia, Colaboração e Entrega de Resultados)
+- Média das Sprints: P 1 - A 1 - C 2 - ER 0. Nessa API foi-me atribuido a nota mínima no ponto de ER pois está definido que, entregas a partir de definida data constam como atrasadas pela falta de tempo devido para testes e, como houveram tasks entregue após o tempo limite estipulado, é definido pela regra do grupo que a Entrega de Resultados deve ser zerada. Pontos como Produtividade e Autonomia foram baixados também justamente devido ao ponto anterior, já que seria pouco razoável atribuir notas elevadas de produtividade considerando a entrega após o tempo estipulado, o mesmo vale para autonomia, já que é razoável pensar que a autonomia propiciaria a produzir resultados mais rapidamente. No ponto da colaboração foi me atribuida uma nota maior pois, com maior facilidade, pude ajudar meus companheiros a planejarem e desenvolverem suas tasks, sendo reconhecido por isso e tendo uma nota mais elevada.
+Pontos de Melhoria
+- Melhor planejamento de tempo, fazendo com que minhas tasks tenham menor probabilidade de ultrapassar o prazo determinado
+- Melhor comunicação, para que o grupo me entenda e que eu possa ajudar e ser ajudado com mair rapidez
+- 
 
 #### Lições Aprendidas
 Além do primeiro contato com Java e Spring, ainda tive a oportunidade de integrar essas tecnologias com o MongoDB. Além disso, tive a oportunidade de trazer o conhecimento e experiência do React para o Next, aumentando o espectro de tecnologias Front-end utilizadas. No espectro das Soft-Skills, eu tive um desempenho mais fraco se comparado aos trabalhos em grupo anteriores, isso me deu a oportunidade de experimentar um aprendizado mais intenso, principalmente no que tange à comunicação, alinhamento de expectatativas, maior capacidade de absorver críticas construtivas e tirar aprendizados valiosos das mesmas.
 
 ## Experiência Profissional e Projetos Pessoais
-### DFS (Fev - 2024 | Mai - 2025)
+### DFS (Fev - 2024 | Mai - 2025) - Experiência Profissional
   Responsabilidades:
   - Realizar reuniões com clientes, colhendo requisitos e propondo soluções que serão desenvolvidas;
   - Modelar e implementar banco de dados alinhados com o modelo de negócios do cliente e/ou requisitos da aplicação;
@@ -87,7 +95,7 @@ Além do primeiro contato com Java e Spring, ainda tive a oportunidade de integr
   - Gestão de tempo, habilidade de planejar e distribuir o tempo disponível para maximizar produtividade e cumprir prazos;
   - Autodidatismo, habilidade de aprender de forma independente, buscando novos conhecimentos e se atualizando constantemente.
 
-### FullTrader Sports (Mai - 2025 | Atualmente)
+### FullTrader Sports (Mai - 2025 | Atualmente) - Experiência Profissional
   Responsabilidades:
   - Receber dados de APIs e capturá-los, trantando-os e os armazenando em bancos de dados compatíveis com a natureza do dado e o processo da empresa;
   - Criar novas métricas com base nos dados capturandos e disponibilizá-los no Front-end da aplicação;
@@ -103,7 +111,7 @@ Além do primeiro contato com Java e Spring, ainda tive a oportunidade de integr
   - Apache Airflow, plataforma de orquestração de workflows utilizada para automatizar e agendar pipelines de dados e processos complexos de forma organizada e escalável;
 
     Soft-Skils
-  - Comunicação, tanto com clientes externos quanto com a equipe interna de desenvolvimento do produto;
+  - Comunicação, necessária para entender os problemas, ajudar com companheiros de equipe e agilizar os processos da empresa;
   - Trabalho em equipe, capacidade de colaborar com outros profissionais visando o alcance de metas comuns;
   - Proatividade, atitude de antecipar problemas ou necessidades e agir sem depender de ordens diretas;
   - Resolução de problemas, habilidade de identificar, analisar e encontrar soluções eficazes para desafios no desenvolvimento ou no ambiente de trabalho;
@@ -111,7 +119,27 @@ Além do primeiro contato com Java e Spring, ainda tive a oportunidade de integr
   - Organização, competência para gerenciar tarefas, prazos e prioridades de forma eficiente;
   - Pensamento crítico, aptidão para avaliar informações de maneira lógica e tomar decisões baseadas em evidências;
   - Gestão de tempo, habilidade de planejar e distribuir o tempo disponível para maximizar produtividade e cumprir prazos;
-  - Autodidatismo, habilidade de aprender de forma independente, buscando novos conhecimentos e se atualizando constantemente.
+
+### MSQuant (Jun - 2024) - Projeto Pessoal
+  Ideia:
+  - Receber dados de APIs financeiras e salvar os dados em um banco de dados para futura análise;
+  - Utilizar os dados para gerar gráficos com base nas movimentações de preço dos ativos listados na Bolsa de Valores Brasiliera (B3);
+  - Utilizar os dados para gerar análises, especialmente análises quantitativas, com base em padrões de movimento e TA (Technical Analysis), um das mais consolidadas práticas para trade no mercado financeiro;
+  - Apresentar os dados para o público, de modo fácil de se entender, explicativo e sem viés de conselho de investimento, trazendo diferentes pontos de vista para a mesma perspectiva analisada.
+
+  Tecnologias Utilizadas:
+  - Python, utilizado como linguagem principal para o desenvolvimento do Back-end da aplicação, pipelines e outras possíveis necessidades;
+  - Flask, framework leve utilizado para construir APIs e serviços Back-end de forma rápida e flexível;
+  - Docker, utilizado para padronizar e isolar o ambiente de execução da aplicação, facilitando a implantação e testes com containerização;
+  - MySQL, utilizado como SGBD relacional para armazenar e manipular dados estruturados da aplicação;
+  
+    Soft-Skils
+  - Resolução de problemas, habilidade de identificar, analisar e encontrar soluções eficazes para desafios no desenvolvimento;
+  - Adaptabilidade, capacidade de se ajustar a novas tecnologias, mudanças de escopo ou ambientes de trabalho dinâmicos;
+  - Organização, competência para gerenciar tarefas, prazos e prioridades de forma eficiente;
+  - Pensamento crítico, aptidão para avaliar informações de maneira lógica e tomar decisões baseadas em evidências;
+  - Gestão de tempo, habilidade de planejar e distribuir o tempo disponível para maximizar produtividade e cumprir prazos;
+  - Multidisciplinariedade, capacidade de aprender e entender informações que estão fora do escopo profissional, abrindo novos horizontes para futuras atuações.
 
 
 
